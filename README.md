@@ -7,6 +7,7 @@ Energy-efficient smart street lighting system using ESP32, LDR ambient light sen
 [![Status](https://img.shields.io/badge/Status-Completed-emerald?style=for-the-badge)]()
 [![MCU](https://img.shields.io/badge/MCU-ESP32_NodeMCU-blue?style=for-the-badge)]()
 
+
 ---
 
 ## 🎯 Overview & Mission Objective
